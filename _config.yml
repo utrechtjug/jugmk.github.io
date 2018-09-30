@@ -1,13 +1,13 @@
 # Site settings
-title: Java User Group Macedonia
-email: webadmin@jug.mk
+title: Utrecht Java User Group
+email: utrechtjug@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Official web site of the Java User Group Macedonia. 
-  Events, mailing list and other activities of the Java community in Macedonia.
+  The official Java User Group of Utrecht Hollande
+  Events, speakers and other activities of Utrecht JUG.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jug.mk" # the base hostname & protocol for your site
-twitter_username: jugmk
-github_username:  jugmk
+twitter_username: utrechtjug
+github_username:  utrechtjug
 collections:
   event:
     output: true

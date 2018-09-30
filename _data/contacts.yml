@@ -1,21 +1,21 @@
-- type: Google Group
-  icon: google
-  name: jugmk
-  url: https://groups.google.com/group/jugmk
+- type: Meetup Group
+  icon: meetup
+  name: Utrecht Java User Group
+  url: https://www.meetup.com/Utrecht-Java-User-Group/
 
 - type: Twitter account
   icon: twitter
-  name: "@JavaUserGroupMK"
-  url: https://twitter.com/JavaUserGroupMK
+  name: "@utrechtjug"
+  url: https://twitter.com/utrechtjug
 
 - type: Facebook group
   icon: facebook
-  name: Java User Group Macedonia (JUGMK)
-  url: https://www.facebook.com/groups/jugmk/
+  name: Utrecht Java User Group
+  url: https://www.facebook.com/utrechtjug
 
 - type: Github user
   icon: github
-  name: jugmk
-  url: https://github.com/jugmk/
+  name: utrechtjug
+  url: https://github.com/utrechtjug/
 
 

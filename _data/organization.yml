@@ -1,14 +1,6 @@
 president: 
-    name: Pance Cavskovski
-    email: hsilomedus@gmail.com
-
-
-previous:
-    - name: Ice Penov
-      email: penov@gmail.com
-      fonding: true
-    - name: Mite Mitreski
-      email: mite.mitreski@gmail.com
+    name: Thodoris Bais
+    email: thodoris.bais@gmail.com
 
 vicepresident:
     name: Stojan Peshov
